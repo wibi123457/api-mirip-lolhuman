@@ -6,8 +6,8 @@
 /*
 <p> Loli Killers</p>
 <p> Rynz</p>
-<p> Eka Danuarta</p>
-<p> ZeeoneOfc </p>
+<p> Skays Botz</p>
+<p> Wibs Botz </p>
 <p> Creative Time [ For Template ]</p>
 <p> ALL HUMAN</p>
 */
@@ -23,7 +23,7 @@ var lolkill = db.get("lolkill");
 }
 
 var creator = 'Wibs Botz' // ubah jadi nama lu
-const listkey = ["Alphabot","Zeeone","Wibs-Botz"]; // ubah apikey nya, tambah aja klo mau
+const listkey = ["Wibs bot","Wibs Botz","Wibs-Botz"]; // ubah apikey nya, tambah aja klo mau
 
 var axios = require('axios');
 var qs = require('qs');
