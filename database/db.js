@@ -12,7 +12,7 @@ if(url == 'isi dengan url database mongodb') throw console.log(color('Configuras
 var db = monk(url);
 
 db.then(() => {
-  console.log(color('Connected correctly to server, Zeeone','green'))
+  console.log(color('Connected correctly to server, Wibs Botz','green'))
 })
 .catch ((e) => {
 	console.log(color('Error : '+ e +'\n\nGagal connect ke database, \ncek configurasi database apakah Connection URL sudah benar','red'))
